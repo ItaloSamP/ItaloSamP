@@ -1,10 +1,6 @@
 # Ítalo Alves
 
 Software Engineering - UnB
-
-- How to reach me: **italosampaio466@gmail.com**
-- LinkedIn: **[italo-alves-760585277](https://www.linkedin.com/in/italo-alves-760585277/)**
-
 ---
 
 # Programming Language & Tools
