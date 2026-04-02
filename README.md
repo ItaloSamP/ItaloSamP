@@ -1,4 +1,4 @@
-# Hi, I'm Ítalo Alves
+# Ítalo Alves
 
 Software Engineering - UnB
 
