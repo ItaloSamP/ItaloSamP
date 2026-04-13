@@ -17,8 +17,7 @@ Software Engineering - UnB
 ![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-111827?style=for-the-badge&logo=rubyonrails&logoColor=D30001)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
-![Vite](https://img.shields.io/badge/Vite-111827?style=for-the-badge&logo=vite&logoColor=646CFF)
+
 
 # GitHub Stats
 
